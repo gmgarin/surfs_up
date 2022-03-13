@@ -16,7 +16,7 @@
 - **December Temperature**
     - The average temperature recorded for December is 71.0 F and the maximum and minimum temperatures recorded were 56.0 F and 83.0 F respectively. Similarly, this results were obtained using *describe()* function. Below is the complete statical summary of data for December.
 
-![This is an image](/surfs_up/december_temps_stat.png)
+![December Summary Stats](https://github.com/gmgarin/surfs_up/blob/73155cdd4251ac3c956d40d69899665be1afe3a0/december_temps_stat.png)
 <p align="center">
     December Temperature in Fahrenheit (F)
 </p>
