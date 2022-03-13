@@ -10,7 +10,7 @@
 
 ![June Summary Stats](https://github.com/gmgarin/surfs_up/blob/5f5ec44fc215bdd2596df273eaa9af242bd288d2/june_temps_stat.png)
 <p align="center">
-    June Temperature in Fahrenheit (F)
+    *June Temperature in Fahrenheit (F)*
 </p>
 
 - **December Temperature**
@@ -18,7 +18,7 @@
 
 ![December Summary Stats](https://github.com/gmgarin/surfs_up/blob/73155cdd4251ac3c956d40d69899665be1afe3a0/december_temps_stat.png)
 <p align="center">
-    December Temperature in Fahrenheit (F)
+    *December Temperature in Fahrenheit (F)*
 </p>
 
 - **More Statistical Differences**
