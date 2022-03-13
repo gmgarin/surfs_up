@@ -8,6 +8,6 @@
 - **June Temperature**
     - The average temperature recorded in June is 74.9 F, however the maximum and minimum temperatures recorded were 85.0 F and 64.0 F respectively. This was done using *describe()* function. Complete summary statistics is shown in the picture below:
 
-![This is an image](surfs_up/june_temps_stat.png)
+![This is an image](/surfs_up/june_temps_stat.png)
 
 
